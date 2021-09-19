@@ -2,7 +2,7 @@
 //  StepsCounterApp.swift
 //  StepsCounter
 //
-//  Created by Field Employee on 9/17/21.
+//  Created by Froy on 9/17/21.
 //
 
 import SwiftUI
